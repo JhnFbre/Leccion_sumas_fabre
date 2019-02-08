@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "910904467228",
+    "firebase_url": "https://leccion-d346d.firebaseio.com",
+    "project_id": "leccion-d346d",
+    "storage_bucket": "leccion-d346d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910904467228:android:501d22d721d6f7b0",
+        "android_client_info": {
+          "package_name": "com.example.walther.leccion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910904467228-oqe1feu4c5d1varifm9u98ohqflggc3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walther.leccion",
+            "certificate_hash": "f08f0d5de1ce4c65419e78ab0645621b0f11fa32"
+          }
+        },
+        {
+          "client_id": "910904467228-fhc7b3slgnj0fcouubtt9p7l71gc9ufv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqPbUsjTP-C51EJZmrTvqpuxlDpG7UTg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910904467228-fhc7b3slgnj0fcouubtt9p7l71gc9ufv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
